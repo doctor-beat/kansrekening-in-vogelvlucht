@@ -1,3 +1,5 @@
+## Kansrekening in vogelvlucht, H Tijms
+Hier zijn de uitwerkingen van de opdrachten zo goed als dat ik het begrepen heb.
 ## opmerkingen
 - (10 boven 5) schrijf ik hier als bin(10,5)
 
